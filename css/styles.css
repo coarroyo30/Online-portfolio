@@ -426,10 +426,10 @@ p {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 60px;
-    height: 60px;
+    width: 80px;
+    height: 80px;
     margin: 15px;
-    border-radius: 20%;
+    border-radius: 100%;
     border-top: 15px solid rgba(255, 255, 255, 0.3);
     border-bottom: 10px solid rgba(34, 34, 34, 0.2);
     background: #93648d;
@@ -454,8 +454,8 @@ p {
     .project-list {
       margin-top: 50px; }
       .project-list li {
-        width: 76px;
-        height: 76px;
+        width: 80px;
+        height: 80px;
         margin: 20px; } }
 
 .project-details {
