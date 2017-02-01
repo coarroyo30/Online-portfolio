@@ -19,7 +19,7 @@ var projects = [
 	"name" : "API gallery",
 	"url" : "http://coarroyo30.github.io/api/",
 	"github" : "http://github.com/coarroyo30/api",
-	"description" : "This project was made with the Spotify API. Ajax is used to get information from the API and display it in a gallery. If an image is click a lightbox will appear, displaying all the information of the items that has been clicked.",
+	"description" : "This project was made with the Spotify API. Ajax is used to get information from the API and display it in a gallery. If an image is clicked a lightbox will appear, displaying all the information of the item that has been clicked.",
 	"preview" : "project-10.jpg",
 	"tech" : ["html", "css", "sass", "js", "jquery", "github"]
 },
