@@ -33,8 +33,8 @@ var projects = [
 },
 {
 	"name" : "Performance optimization",
-	"url" : "http://coarroyo30.github.io/performance/",
-	"github" : "http://github.com/coarroyo30/performance",
+	"url" : "http://coarroyo30.github.io/optimize/",
+	"github" : "http://github.com/coarroyo30/optimize",
 	"description" : "In this project the performance of the website had to be optimized. The original project had 43 network requests, and it was remade to have 26 network requests. Images were resized, and the overall website was made to load faster.",
 	"preview" : "project-11.jpg",
 	"tech" : ["html", "css", "sass", "js", "github"]
