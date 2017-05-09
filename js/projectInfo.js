@@ -1,5 +1,45 @@
 var projects = [
 {
+  "name" : "Access",
+  "url" : "http://coarroyo30.github.io/accessibility/",
+  "github" : "http://github.com/coarroyo30/accessibility",
+  "description" : "I made this website more accessible to people with disabilities.",
+  "preview" : "project-8.jpg",
+  "tech" : ["html", "css", "github"]
+},
+{
+  "name" : "API gallery",
+  "url" : "http://coarroyo30.github.io/api/",
+  "github" : "http://github.com/coarroyo30/api",
+  "description" : "This project was made with the Spotify API. Ajax is used to get information from the API and display it in a gallery. If an image is clicked a lightbox will appear, displaying all the information of the item that has been clicked.",
+  "preview" : "project-10.jpg",
+  "tech" : ["html", "css", "sass", "js", "jquery", "github"]
+},
+{
+  "name" : "Gallery",
+  "url" : "http://coarroyo30.github.io/gallery/",
+  "github" : "http://github.com/coarroyo30/gallery",
+  "description" : "At the top of the page, a search area will hide and show (filter) the photos below depending on user input. When the user clicks on a thumbnail the photo will display in a lightbox. There should be a back and previous buttons to cycle through photos.",
+  "preview" : "project-4.jpg",
+  "tech" : ["html", "css", "js", "github"]
+},
+{
+  "name" : "Interactive video player",
+  "url" : "http://coarroyo30.github.io/video/",
+  "github" : "http://github.com/coarroyo30/video",
+  "description" : "This project was made with html, css, Sass, and Javascript. The controls for the video were custom made. As the video plays the text beneath the video is being highlighted.",
+  "preview" : "project-7.jpg",
+  "tech" : ["html", "css", "sass", "js", "github"]
+},
+{
+  "name" : "Performance optimization",
+  "url" : "http://coarroyo30.github.io/optimize/",
+  "github" : "http://github.com/coarroyo30/optimize",
+  "description" : "In this project the performance of the website had to be optimized. The original project had 43 network requests, and it was remade to have 26 network requests. Images were resized, and the overall website was made to load faster.",
+  "preview" : "project-11.jpg",
+  "tech" : ["html", "css", "sass", "js", "github"]
+},
+{
 	"name" : "Responsive layout with Sass",
 	"url" : "http://coarroyo30.github.io/responsive/",
 	"github" : "http://github.com/coarroyo30/responsive",
@@ -8,20 +48,12 @@ var projects = [
 	"tech" : ["html", "css", "sass", "github"]
 },
 {
-	"name" : "Interactive video player",
-	"url" : "http://coarroyo30.github.io/video/",
-	"github" : "http://github.com/coarroyo30/video",
-	"description" : "This project was made with html, css, Sass, and Javascript. The controls for the video were custom made. As the video plays the text beneath the video is being highlighted.",
-	"preview" : "project-7.jpg",
-	"tech" : ["html", "css", "sass", "js", "github"]
-},
-{
-	"name" : "API gallery",
-	"url" : "http://coarroyo30.github.io/api/",
-	"github" : "http://github.com/coarroyo30/api",
-	"description" : "This project was made with the Spotify API. Ajax is used to get information from the API and display it in a gallery. If an image is clicked a lightbox will appear, displaying all the information of the item that has been clicked.",
-	"preview" : "project-10.jpg",
-	"tech" : ["html", "css", "sass", "js", "jquery", "github"]
+  "name" : "SVG",
+  "url" : "http://coarroyo30.github.io/svg/",
+  "github" : "http://github.com/coarroyo30/svg",
+  "description" : "In this project all the png images were replaced with SVGs",
+  "preview" : "project-6.jpg",
+  "tech" : ["html", "css", "github"]
 },
 {
 	"name" : "Web app dashboard",
@@ -29,14 +61,6 @@ var projects = [
 	"github" : "http://github.com/coarroyo30/app",
 	"description" : "This project is a web app dashboard. It was made Javascript driven charts and graphs. It is a front end app only. ",
 	"preview" : "project-9.jpg",
-	"tech" : ["html", "css", "sass", "js", "github"]
-},
-{
-	"name" : "Performance optimization",
-	"url" : "http://coarroyo30.github.io/optimize/",
-	"github" : "http://github.com/coarroyo30/optimize",
-	"description" : "In this project the performance of the website had to be optimized. The original project had 43 network requests, and it was remade to have 26 network requests. Images were resized, and the overall website was made to load faster.",
-	"preview" : "project-11.jpg",
 	"tech" : ["html", "css", "sass", "js", "github"]
 }
 ];
